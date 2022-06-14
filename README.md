@@ -6,6 +6,8 @@ run: `npm start`
 
 for tests:`npm run test`
 
+run application https://denekd.github.io/tableTask/
+
 ## Technology stack
 
 - TypeScript
